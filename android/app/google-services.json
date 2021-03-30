@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473515006031",
+    "project_id": "flash-chat-flour",
+    "storage_bucket": "flash-chat-flour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473515006031:android:01bbcad2c2010cad9df23a",
+        "android_client_info": {
+          "package_name": "co.OmSonone.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473515006031-c4q8nrb4u3vjq8b04d2dv0b76id6nncp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvWiiKUBf2U_EbJDL2XENkA5sRcJsvR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473515006031-c4q8nrb4u3vjq8b04d2dv0b76id6nncp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
